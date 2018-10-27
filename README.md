@@ -6,9 +6,9 @@ Accepting pull requests!
 
 ## What does it do?
 
-What is a keyword optimisation cycle? You can read about what it is courtesy of [the lovely people over at ASOstack](https://asostack.com/keyword-optimization-cycle-5f47388c2b5)
+What is a keyword optimisation cycle? You can read about what a keyword optimisation cycle is courtesy of [the lovely people over at ASOstack](https://asostack.com/keyword-optimization-cycle-5f47388c2b5)
 
-You put in your metadata before and after a change, your keyword list and the rankings before and after the change. 
+In this tool, you put in your metadata before and after a change, your keyword list and the rankings before and after the change. 
 
 From this, it will tell you the average improvement/drop in every keyword that has a word contained in your metadata change.
 
