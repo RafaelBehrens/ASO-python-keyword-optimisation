@@ -35,4 +35,4 @@ Python, Jupyter, Pandas, Numpy
 
 ## Authors
 
-* **[Fede Behrens](linkedin.com/in/behrensfede)** - *Initial work*
+* **[Fede Behrens](https://linkedin.com/in/behrensfede)** - *Initial work*
