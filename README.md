@@ -10,7 +10,7 @@ What is a keyword optimisation cycle? You can read about what a keyword optimisa
 
 In this tool, you put in your metadata before and after a change, your keyword list and the rankings before and after the change. 
 
-From this, it will tell you the average improvement/drop in every keyword that has a word contained in your metadata change.
+From this, it will tell you the average improvement/drop in every keyword that has a word contained in your metadata.
 
 ## Getting Started
 
